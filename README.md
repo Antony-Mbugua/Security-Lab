@@ -8,7 +8,7 @@ This repository is a curated collection of hands-on security labs I built and do
 
 
 **Owner:** Antony Mbugua
-**Portfolio:** https://antonymbugua.github.io
+**Portfolio:** https://antony-mbugua.github.io
 **Handles:** HackTheBox: kiregi742 · TryHackMe: incog742
 
 
@@ -56,5 +56,6 @@ Pick 2–3 labs labeled `portfolio-ready` and read the executive summary at the 
 ## License & responsible disclosure
 This repository is intended for educational purposes only. Do not upload or include malware samples, stolen data, or credentials. Red-team activities must be performed in isolated lab networks under your control. If you discover a real-world vulnerability while doing research, follow a responsible disclosure policy and do not publish exploit code for active, unpatched systems.
 ---
+
 
 
